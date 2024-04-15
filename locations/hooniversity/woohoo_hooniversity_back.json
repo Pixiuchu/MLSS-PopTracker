@@ -139,6 +139,7 @@
                 "sections": [
                     {
                         "name": "Digspot"
+                        "visibility_rules": ["disable_digspots_off","disable_digspots_visible"]
                     }
                 ],
                 "map_locations": 
