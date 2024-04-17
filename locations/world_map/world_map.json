@@ -272,6 +272,10 @@
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
                         "access_rules": ["$CANDIG"]
                     }
+                    //{
+                    //    "name": "Dragohoho",
+                    //    "hosted_item": "dragohoho"
+                    //}
                 ]
             }
         ]
@@ -731,6 +735,11 @@
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
                         "access_rules": ["handluigi,$CANDIG"]
                     }
+                    //{
+                    //    "name": "Mom Piranha",
+                    //    "access_rules": ["handluigi"],
+                    //    "hosted_item": "mompiranha"
+                    //}  
                 ]
             }
         ]
@@ -1312,6 +1321,16 @@
                         "name": "Beanbean Castle Town Mini Mario Block 5",
                         "access_rules": ["$CANMINI"]
                     },
+                    //{
+                    //    "name": "Queen Bean",
+                    //    "access_rules": ["keyrose"],
+                    //    "hosted_item": "queenbean"
+                    //},
+                    //{
+                    //    "name": "Queen Bean Beanstar Complete",
+                    //    "access_rules": ["keyrose, chuckolator, $has|beanstarpieces|4"],
+                    //    "hosted_item": "realbeanstar"
+                    //},
                     {
                         "name": "Queen Bean Fake Beanstar",
                         "access_rules": ["$BEANSTARCOMPLETE, $has|beanstarpieces|4"]
@@ -1738,6 +1757,11 @@
                         "name": "Chucklehuck Woods After Chuckleroot Coin Block",
                         "visibility_rules": ["coinblocks_on"]
                     }
+                    //{
+                    //    "name": "Chuckolator",
+                    //    "hosted_item": "chuckolator"
+                    //}
+                    
                 ]
             }
         ]
@@ -1962,6 +1986,10 @@
                         "name": "Woohoo Hooniversity Popple Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"]
                     }
+                    //{
+                    //    "name": "Popple 2",
+                    //    "hosted_item": "popple2"
+                    //}
                 ]
             }
         ]
@@ -2423,6 +2451,11 @@
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
                         "access_rules": ["$BOWSERACCESS, [$CANCRASH], $has|beanstarpieces|4"]
                     }
+                    //{
+                    //    "name": "Popple 4",
+                    //    "access_rules": ["jojora,keyfakestar,keydress,realbeanstar"],
+                    //    "hosted_item": "popple4"
+                    //}
                 ]
             }
         ]
@@ -2526,6 +2559,10 @@
                     {
                         "name": "Fungitown Embassy Room Block"
                     }
+                    //{
+                    //    "name": "Entered Fungitown",
+                    //    "hosted_item": "kidnapped"
+                    //}
                 ]
             }
         ]
@@ -2749,6 +2786,11 @@
                         "visibility_rules": ["disable_digspots_off"],
                         "access_rules": ["$CANDASH"]
                     }
+                    //{
+                    //    "name": "Jojora",
+                    //    "access_rules": ["$CANDASH"],
+                    //    "hosted_item": "jojora"
+                    //}
                 ]
             }
         ]
