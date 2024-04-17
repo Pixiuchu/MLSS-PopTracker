@@ -4,7 +4,7 @@ ScriptHost:LoadScript("scripts/locations.lua")
 
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/settings.json")
-Tracker:AddItems("items/events.json")
+--Tracker:AddItems("items/events.json")
 
 Tracker:AddMaps("maps/maps.json")
 

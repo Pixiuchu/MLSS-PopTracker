@@ -1,7 +1,7 @@
 [
     {
         "name": "Joke's End 3",
-        "access_rules": ["$ACCESSJOKES, $CANDIG, $CANCRASH, handmario"],
+        "access_rules": ["$ACCESSJOKES, $CANDIG, [$CANCRASH], handmario"],
         "children": 
         [
             {
@@ -70,25 +70,25 @@
                         "y": 725
                     }
                 ]
-            },
-            {
-                "name": "Jojora",
-                "access_rules": ["$CANDASH"],
-                "sections": [
-                    {
-                        "name": "Jojora",
-                        "hosted_item": "jojora"
-                    }
-                ],
-                "map_locations": 
-                [
-                    {
-                        "map": "jokes_end_3",
-                        "x": 1445,
-                        "y": 685
-                    }
-                ]
             }
+            //{
+            //    "name": "Jojora",
+            //    "access_rules": ["$CANDASH"],
+            //    "sections": [
+            //        {
+            //            "name": "Jojora",
+            //            "hosted_item": "jojora"
+            //        }
+            //    ],
+            //    "map_locations": 
+            //    [
+            //        {
+            //            "map": "jokes_end_3",
+            //            "x": 1445,
+            //            "y": 685
+            //        }
+            //    ]
+            //}
         ]
     }
 ]

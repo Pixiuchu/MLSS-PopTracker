@@ -29,12 +29,12 @@
                     },
                     {
                         "name": "Badge Shop Post-Beanstar Complete",
-                        "access_rules": ["realbeanstar"],
+                        "access_rules": ["$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 2
                     },
                     {
                         "name": "Badge Shop Post-Birdo",
-                        "access_rules": ["popple4"],
+                        "access_rules": ["$BOWSERACCESS, $has|beanstarpieces|4, [$CANCRASH]"],
                         "item_count": 2
                     }
                 ],
@@ -56,12 +56,12 @@
                     },
                     {
                         "name": "Pants Shop Post-Beanstar Complete",
-                        "access_rules": ["realbeanstar"],
+                        "access_rules": ["$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 2
                     },
                     {
                         "name": "Pants Shop Post-Birdo",
-                        "access_rules": ["popple4"],
+                        "access_rules": ["$BOWSERACCESS, $has|beanstarpieces|4, [$CANCRASH]"],
                         "item_count": 2
                     }
                 ],
@@ -83,11 +83,11 @@
                     },
                     {
                         "name": "Item Shop Post-Beanstar Complete",
-                        "access_rules": ["realbeanstar"]
+                        "access_rules": ["$BEANSTARCOMPLETE, $has|beanstarpieces|4"]
                     },
                     {
                         "name": "Item Shop Post-Birdo",
-                        "access_rules": ["popple4"]
+                        "access_rules": ["$BOWSERACCESS"]
                     }
                 ],
                 "map_locations": 
@@ -114,24 +114,24 @@
                         "y": 164
                     }
                 ]
-            },
-            {
-                "name": "Entered Fungitown",
-                "sections": [
-                    {
-                        "name": "Entered Fungitown",
-                        "hosted_item": "kidnapped"
-                    }
-                ],
-                "map_locations": 
-                [
-                    {
-                        "map": "little_fungitown",
-                        "x": 584,
-                        "y": 1510
-                    }
-                ]
             }
+            //{
+            //    "name": "Entered Fungitown",
+            //    "sections": [
+            //        {
+            //            "name": "Entered Fungitown",
+            //            "hosted_item": "kidnapped"
+            //        }
+            //    ],
+            //    "map_locations": 
+            //    [
+            //        {
+            //            "map": "little_fungitown",
+            //            "x": 584,
+            //            "y": 1510
+            //        }
+            //    ]
+            //}
         ]
     }
 ]

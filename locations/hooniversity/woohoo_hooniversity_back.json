@@ -216,24 +216,24 @@
                         "y": 423
                     }
                 ]
-            },
-            {
-                "name": "Popple 2",
-                "sections": [
-                    {
-                        "name": "Popple 2",
-                        "hosted_item": "popple2"
-                    }
-                ],
-                "map_locations": 
-                [
-                    {
-                        "map": "woohoo_hooniversity_back",
-                        "x": 966,
-                        "y": 199
-                    }
-                ]
             }
+            //{
+            //    "name": "Popple 2",
+            //    "sections": [
+            //        {
+            //            "name": "Popple 2",
+            //            "hosted_item": "popple2"
+            //        }
+            //    ],
+            //    "map_locations": 
+            //    [
+            //        {
+            //            "map": "woohoo_hooniversity_back",
+            //            "x": 966,
+            //            "y": 199
+            //        }
+            //    ]
+            //}
         ]
     }
 ]

@@ -67,7 +67,7 @@
                     },
                     {
                         "name": "Ultra Hammer Upgrade",
-                        "access_rules": ["realbeanstar"]
+                        "access_rules": ["$BEANSTARCOMPLETE, $has|beanstarpieces|4"]
                     },
                     {
                         "name": "Secret Scroll 1",

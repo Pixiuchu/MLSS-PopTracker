@@ -167,7 +167,7 @@
             },
             {
                 "name": "Teehee Valley Past Ultra Hammers Digspot 2",
-                "access_rules": ["hammer3, jojora, keyfakestar, keydress, realbeanstar"],
+                "access_rules": ["$BOWSERACCESS, [$CANCRASH], $has|beanstarpieces|4"],
                 "sections": [
                     {
                         "name": "Digspot 2",
@@ -334,12 +334,11 @@
             },
             {
                 "name": "Teehee Valley Before Popple Digspot 1",
-                "access_rules": ["hammer3, jojora, keyfakestar, keydress, realbeanstar"],
+                "access_rules": ["$BOWSERACCESS, [$CANCRASH]"],
                 "sections": [
                     {
                         "name": "Digspot 1",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
                     }
                 ],
                 "map_locations": 
@@ -353,12 +352,11 @@
             },
             {
                 "name": "Teehee Valley Before Popple Digspot 2",
-                "access_rules": ["hammer3, jojora, keyfakestar, keydress, realbeanstar"],
+                "access_rules": ["$BOWSERACCESS, [$CANCRASH]"],
                 "sections": [
                     {
                         "name": "Digspot 2",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
                     }
                 ],
                 "map_locations": 
@@ -372,12 +370,11 @@
             },
             {
                 "name": "Teehee Valley Before Popple Digspot 3",
-                "access_rules": ["hammer3, jojora, keyfakestar, keydress, realbeanstar"],
+                "access_rules": ["$BOWSERACCESS, [$CANCRASH]"],
                 "sections": [
                     {
                         "name": "Digspot 3",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
                     }
                 ],
                 "map_locations": 
@@ -391,12 +388,11 @@
             },
             {
                 "name": "Teehee Valley Before Popple Digspot 4",
-                "access_rules": ["hammer3, jojora, keyfakestar, keydress, realbeanstar"],
+                "access_rules": ["$BOWSERACCESS, [$CANCRASH]"],
                 "sections": [
                     {
                         "name": "Digspot 4",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
                     }
                 ],
                 "map_locations": 
@@ -407,26 +403,25 @@
                         "y": 2227
                     }
                 ]
-            },
-            {
-                "name": "Popple 4",
-                "access_rules": ["hammer3, jojora, keyfakestar, keydress, realbeanstar"],
-                "sections": [
-                    {
-                        "name": "Popple 4",
-                        "access_rules": ["$CANDIG"],
-                        "hosted_item": "popple4"
-                    }
-                ],
-                "map_locations": 
-                [
-                    {
-                        "map": "teehee_valley",
-                        "x": 64,
-                        "y": 2035
-                    }
-                ]
             }
+            //{
+            //    "name": "Popple 4",
+            //    "access_rules": ["$BOWSERACCESS, [$CANCRASH]"],
+            //    "sections": [
+            //        {
+            //            "name": "Popple 4",
+            //            "hosted_item": "popple4"
+            //        }
+            //    ],
+            //    "map_locations": 
+            //    [
+            //        {
+            //            "map": "teehee_valley",
+            //            "x": 64,
+            //            "y": 2035
+            //        }
+            //    ]
+            //}
         ]
     }
 ]

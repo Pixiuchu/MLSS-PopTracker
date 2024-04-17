@@ -25,15 +25,15 @@
 											"key": "item_grid"
 										}
 									},
-									{
-										"type": "group",
-										"header": "Events",
-										"dock": "top",
-										"content": {
-											"type": "layout",
-											"key": "events"
-										}
-									},
+									//{
+									//	"type": "group",
+									//	"header": "Events",
+									//	"dock": "top",
+									//	"content": {
+									//		"type": "layout",
+									//		"key": "events"
+									//	}
+									//},
 									{
 										"type": "group",
 										"dock": "top",

@@ -9,37 +9,37 @@
                     {
                         "name": "Post-Queen Bean",
                         "clear_as_group": false,
-                        "access_rules": ["queenbean"],
+                        "access_rules": ["keyrose","keybrooch"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Chuckolator",
                         "clear_as_group": false,
-                        "access_rules": ["chuckolator, queenbean"],
+                        "access_rules": ["$CHUCKOLATORBEAT", "handluigi"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Mom Piranha",
                         "clear_as_group": false,
-                        "access_rules": ["mompiranha, queenbean"],
+                        "access_rules": ["handluigi, keyrose","handluigi, keybrooch", "$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Peach Kidnapped",
                         "clear_as_group": false,
-                        "access_rules": ["kidnapped, queenbean"],
+                        "access_rules": ["$CHUCKOLATORBEAT, keyrose, handluigi", "$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Beanstar Complete",
                         "clear_as_group": false,
-                        "access_rules": ["realbeanstar, queenbean"],
+                        "access_rules": ["$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Birdo",
                         "clear_as_group": false,
-                        "access_rules": ["popple4, queenbean"],
+                        "access_rules": ["$BOWSERACCESS, $has|beanstarpieces|4, [$CANCRASH]"],
                         "item_count": 3
                     }
                 ],
@@ -58,37 +58,37 @@
                     {
                         "name": "Post-Queen Bean",
                         "clear_as_group": false,
-                        "access_rules": ["queenbean"],
+                        "access_rules": ["keyrose","keybrooch"],
                         "item_count": 2
                     },
                     {
                         "name": "Post-Chuckolator",
                         "clear_as_group": false,
-                        "access_rules": ["chuckolator, queenbean"],
+                        "access_rules": ["$CHUCKOLATORBEAT", "handluigi"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Mom Piranha",
                         "clear_as_group": false,
-                        "access_rules": ["mompiranha, queenbean"],
+                        "access_rules": ["handluigi, keyrose","handluigi, keybrooch", "$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Peach Kidnapped",
                         "clear_as_group": false,
-                        "access_rules": ["kidnapped, queenbean"],
+                        "access_rules": ["$CHUCKOLATORBEAT, keyrose, handluigi", "$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Beanstar Complete",
                         "clear_as_group": false,
-                        "access_rules": ["realbeanstar, queenbean"],
+                        "access_rules": ["$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Birdo",
                         "clear_as_group": false,
-                        "access_rules": ["popple4, queenbean"],
+                        "access_rules": ["$BOWSERACCESS, $has|beanstarpieces|4, [$CANCRASH]"],
                         "item_count": 3
                     }
                 ],
@@ -112,30 +112,30 @@
                     {
                         "name": "Post-Chuckolator",
                         "clear_as_group": false,
-                        "access_rules": ["chuckolator", "mompiranha"]
+                        "access_rules": ["$CHUCKOLATORBEAT", "handluigi"]
                     },
                     {
                         "name": "Post-Mom Piranha",
                         "clear_as_group": false,
-                        "access_rules": ["mompiranha"],
+                        "access_rules": ["handluigi", "$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 4
                     },
                     {
                         "name": "Post-Peach Kidnapped",
                         "clear_as_group": false,
-                        "access_rules": ["kidnapped"],
+                        "access_rules": ["$CHUCKOLATORBEAT, keyrose, handluigi", "$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 2
                     },
                     {
                         "name": "Post-Beanstar Complete",
                         "clear_as_group": false,
-                        "access_rules": ["realbeanstar"],
+                        "access_rules": ["$BEANSTARCOMPLETE, $has|beanstarpieces|4"],
                         "item_count": 3
                     },
                     {
                         "name": "Post-Birdo",
                         "clear_as_group": false,
-                        "access_rules": ["popple4"]
+                        "access_rules": ["$BOWSERACCESS, $has|beanstarpieces|4, [$CANCRASH]"]
                     }
                 ],
                 "map_locations": 
@@ -149,7 +149,7 @@
             },
             {
                 "name": "Coffee Shop",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Brew Reward 1"
@@ -205,7 +205,7 @@
             },
             {
                 "name": "Beanbean Castle Town Left Side House Blocks",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Block 1 (Hidden)"
@@ -231,7 +231,7 @@
             },
             {
                 "name": "Beanbean Castle Town Right Side House Blocks",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Block 1"
@@ -258,7 +258,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 1",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 1 (Hidden)",
@@ -276,7 +276,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 2",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 2 (Hidden)",
@@ -294,7 +294,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 3",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 3 (Hidden)",
@@ -312,7 +312,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 4",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 4 (Hidden)",
@@ -330,7 +330,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 5",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 5 (Hidden)",
@@ -348,7 +348,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 6",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 6 (Hidden)",
@@ -366,7 +366,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 7",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 7 (Hidden)",
@@ -384,7 +384,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 8",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 8 (Hidden)",
@@ -402,7 +402,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 9",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 9 (Hidden)",
@@ -420,7 +420,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone 10",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone 10 (Hidden)",
@@ -438,7 +438,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanstone Reward",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanstone Reward",
@@ -456,7 +456,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanlet 1",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanlet 1"
@@ -473,7 +473,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanlet 2",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanlet 2"
@@ -490,7 +490,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanlet 3",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanlet 3"
@@ -507,7 +507,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanlet 4",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanlet 4"
@@ -524,7 +524,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanlet 5",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanlet 5"
@@ -541,7 +541,7 @@
             },
             {
                 "name": "Beanbean Castle Town Beanlet Reward",
-                "access_rules": ["chuckolator"],
+                "access_rules": ["$CHUCKOLATORBEAT"],
                 "sections": [
                     {
                         "name": "Beanlet Reward"

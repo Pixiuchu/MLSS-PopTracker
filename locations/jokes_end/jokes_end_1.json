@@ -220,7 +220,7 @@
             },
             {
                 "name": "Joke's End Northeast of Boiler Room 1 Block",
-                "access_rules": ["$CANCRASH, handmario"],
+                "access_rules": ["[$CANCRASH], handmario"],
                 "sections": [
                     {
                         "name": "Block (Hidden)"
@@ -237,7 +237,7 @@
             },
             {
                 "name": "Joke's End Northeast of Boiler Room 2 Block",
-                "access_rules": ["$CANCRASH, handmario"],
+                "access_rules": ["[$CANCRASH], handmario"],
                 "sections": [
                     {
                         "name": "Block (Hidden)"
@@ -254,7 +254,7 @@
             },
             {
                 "name": "Joke's End Northeast of Boiler Room 2 Digspot",
-                "access_rules": ["$CANCRASH, handmario"],
+                "access_rules": ["[$CANCRASH], handmario"],
                 "sections": [
                     {
                         "name": "Digspot",
@@ -273,7 +273,7 @@
             },
             {
                 "name": "Joke's End Northeast of Boiler Room 3 Digspot",
-                "access_rules": ["$CANCRASH, handmario"],
+                "access_rules": ["[$CANCRASH], handmario"],
                 "sections": [
                     {
                         "name": "Digspot",
@@ -292,7 +292,7 @@
             },
             {
                 "name": "Joke's End Furnace Room 1 Block 1",
-                "access_rules": ["$CANCRASH, handmario"],
+                "access_rules": ["[$CANCRASH], handmario"],
                 "sections": [
                     {
                         "name": "Block 1"
@@ -309,7 +309,7 @@
             },
             {
                 "name": "Joke's End Furnace Room 1 Block 2",
-                "access_rules": ["$CANCRASH, handmario"],
+                "access_rules": ["[$CANCRASH], handmario"],
                 "sections": [
                     {
                         "name": "Block 2"
@@ -326,7 +326,7 @@
             },
             {
                 "name": "Joke's End Furnace Room 1 Block 3",
-                "access_rules": ["$CANCRASH, handmario"],
+                "access_rules": ["[$CANCRASH], handmario"],
                 "sections": [
                     {
                         "name": "Block 3 (Hidden)"

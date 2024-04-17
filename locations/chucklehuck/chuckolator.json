@@ -117,24 +117,24 @@
                         "y": 1737
                     }
                 ]
-            },
-            {
-                "name": "Chuckolator",
-                "sections": [
-                    {
-                        "name": "Chuckolator",
-                        "hosted_item": "chuckolator"
-                    }
-                ],
-                "map_locations": 
-                [
-                    {
-                        "map": "chuckolator",
-                        "x": 119,
-                        "y": 119
-                    }
-                ]
             }
+            //{
+            //    "name": "Chuckolator",
+            //    "sections": [
+            //        {
+            //            "name": "Chuckolator",
+            //            "hosted_item": "chuckolator"
+            //        }
+            //    ],
+            //    "map_locations": 
+            //    [
+            //        {
+            //            "map": "chuckolator",
+            //            "x": 119,
+            //            "y": 119
+            //        }
+            //    ]
+            //}
         ]
     }
 ]

@@ -483,7 +483,7 @@ LOCATION_MAPPING =
     --Beanbean Castle Town Beanstone 8
     [2430915] = {"@Beanbean Castle Town/Beanbean Castle Town Beanstone 8/Beanstone 8 (Hidden)","@Beanbean Castle Town/Beanbean Castle Town/Beanbean Castle Town Beanstone 8"},
     --Beanbean Castle Town Beanstone 9
-    [2431009] = {"@Beanbean Castle Town/Beanbean Castle Town Beanstone 9/Beanstone 9 (Hidden)","@Beanbean Castle Town/Beanbean Castle Town/Beanbean Castle Town Beanstone 9"},
+    [2431007] = {"@Beanbean Castle Town/Beanbean Castle Town Beanstone 9/Beanstone 9 (Hidden)","@Beanbean Castle Town/Beanbean Castle Town/Beanbean Castle Town Beanstone 9"},
     --Beanbean Castle Town Beanstone 10
     [2431099] = {"@Beanbean Castle Town/Beanbean Castle Town Beanstone 10/Beanstone 10 (Hidden)","@Beanbean Castle Town/Beanbean Castle Town/Beanbean Castle Town Beanstone 10"},
     --Coffee Shop Brew Reward 1
@@ -749,25 +749,25 @@ LOCATION_MAPPING =
     --Airport Leftside Digspot 5
     [3793686] = {"@Outskirts South/Airport Leftside Digspot 5/Digspot 5","@Outskirts South/Outskirts South/Airport Leftside Digspot 5"},
     --Airport Middle Digspot 1
-    [3793699] = {"@Outskirts South/Airport Middle Digspot 1/Digspot 1","@Outskirts South/Outskirts South/Airport Middle Digspot 1"},
+    [3793699] = {"@Outskirts South/Airport Center Digspot 1/Digspot 1","@Outskirts South/Outskirts South/Airport Center Digspot 1"},
     --Airport Middle Digspot 2
-    [3793707] = {"@Outskirts South/Airport Middle Digspot 2/Digspot 2","@Outskirts South/Outskirts South/Airport Middle Digspot 2"},
+    [3793707] = {"@Outskirts South/Airport Center Digspot 2/Digspot 2","@Outskirts South/Outskirts South/Airport Center Digspot 2"},
     --Airport Middle Digspot 3
-    [3793715] = {"@Outskirts South/Airport Middle Digspot 3/Digspot 3","@Outskirts South/Outskirts South/Airport Middle Digspot 3"},
+    [3793715] = {"@Outskirts South/Airport Center Digspot 3/Digspot 3","@Outskirts South/Outskirts South/Airport Center Digspot 3"},
     --Airport Middle Digspot 4
-    [3793723] = {"@Outskirts South/Airport Middle Digspot 4/Digspot 4","@Outskirts South/Outskirts South/Airport Middle Digspot 4"},
+    [3793723] = {"@Outskirts South/Airport Center Digspot 4/Digspot 4","@Outskirts South/Outskirts South/Airport Center Digspot 4"},
     --Airport Middle Digspot 5
-    [3793731] = {"@Outskirts South/Airport Middle Digspot 5/Digspot 5 (Hidden)","@Outskirts South/Outskirts South/Airport Middle Digspot 5"},
+    [3793731] = {"@Outskirts South/Airport Center Digspot 5/Digspot 5 (Hidden)","@Outskirts South/Outskirts South/Airport Center Digspot 5"},
     --Airport Right Digspot 1
-    [3793744] = {"@Outskirts South/Airport Right Digspot 1/Digspot 1","@Outskirts South/Outskirts South/Airport Right Digspot 1"},
+    [3793744] = {"@Outskirts South/Airport Rightside Digspot 1/Digspot 1","@Outskirts South/Outskirts South/Airport Rightside Digspot 1"},
     --Airport Right Digspot 2
-    [3793752] = {"@Outskirts South/Airport Right Digspot 2/Digspot 2","@Outskirts South/Outskirts South/Airport Right Digspot 2"},
+    [3793752] = {"@Outskirts South/Airport Rightside Digspot 2/Digspot 2","@Outskirts South/Outskirts South/Airport Rightside Digspot 2"},
     --Airport Right Digspot 3
-    [3793760] = {"@Outskirts South/Airport Right Digspot 3/Digspot 3","@Outskirts South/Outskirts South/Airport Right Digspot 3"},
+    [3793760] = {"@Outskirts South/Airport Rightside Digspot 3/Digspot 3","@Outskirts South/Outskirts South/Airport Rightside Digspot 3"},
     --Airport Right Digspot 4
-    [3793768] = {"@Outskirts South/Airport Right Digspot 4/Digspot 4","@Outskirts South/Outskirts South/Airport Right Digspot 4"},
+    [3793768] = {"@Outskirts South/Airport Rightside Digspot 4/Digspot 4","@Outskirts South/Outskirts South/Airport Rightside Digspot 4"},
     --Airport Right Digspot 5
-    [3793776] = {"@Outskirts South/Airport Right Digspot 5/Digspot 5 (Hidden)","@Outskirts South/Outskirts South/Airport Right Digspot 5"},
+    [3793776] = {"@Outskirts South/Airport Rightside Digspot 5/Digspot 5 (Hidden)","@Outskirts South/Outskirts South/Airport Rightside Digspot 5"},
     --Gwarhar Lagoon Pipe Room Digspot
     [3793789] = {"@Gwarhar Lagoon North/Gwarhar Lagoon Pipe Room Digspot/Digspot","@Gwarhar Lagoon North/Gwarhar Lagoon North/Gwarhar Lagoon Pipe Room Digspot"},
     --Gwarhar Lagoon Massage Parlor Entrance Digspot
@@ -782,6 +782,10 @@ LOCATION_MAPPING =
     [2317340] = {"@Gwarhar Lagoon North/Gwarhar Lagoon Red Pearl Bean/Red Pearl Bean","@Gwarhar Lagoon North/Gwarhar Lagoon North/Gwarhar Lagoon Red Pearl Bean"},
     --Gwarhar Lagoon Green Pearl Bean
     [2316891] = {"@Gwarhar Lagoon North/Gwarhar Lagoon Green Pearl Bean/Green Pearl Bean","@Gwarhar Lagoon North/Gwarhar Lagoon North/Gwarhar Lagoon Green Pearl Bean"},
+    --Oho Ocean South Room 1 Block
+    [3793002] = {"@Oho Seabed/Oho Ocean South Room 1 Block/Block","@Oho Seabed/Oho Seabed/Oho Ocean South Room 1 Block"},
+    --Oho Ocean South Room 2 Digspot
+    [3793015] = {"@Oho Seabed/Oho Ocean South Room 2 Digspot/Digspot (Hidden)","@Oho Seabed/Oho Seabed/Oho Ocean South Room 2 Digspot"},
     --Teehee Valley Room 1 Digspot 1
     [3794206] = {"@Teehee Valley/Teehee Valley Room 1 Digspot 1/Digspot 1 (Hidden)","@Teehee Valley/Teehee Valley/Teehee Valley Room 1 Digspot 1"},
     --Teehee Valley Room 1 Digspot 2
@@ -996,10 +1000,6 @@ LOCATION_MAPPING =
     [3792799] = {"@Oho Oasis/Oho Oasis West Digspot/Digspot","@Oho Oasis/Oho Oasis/Oho Oasis West Digspot"},
     --Oho Oasis Fire Palace Block
     [3792830] = {"@Oho Oasis/Oho Oasis Fire Palace Block/Block (Hidden)","@Oho Oasis/Oho Oasis/Oho Oasis Fire Palace Block"},
-    --Oho Ocean South Room 1 Block
-    [3793002] = {"@Oho Seabed/Oho Ocean South Room 1 Block/Block","@Oho Seabed/Oho Seabed/Oho Ocean South Room 1 Block"},
-    --Oho Ocean South Room 2 Digspot
-    [3793015] = {"@Oho Seabed/Oho Ocean South Room 2 Digspot/Digspot (Hidden)","@Oho Seabed/Oho Seabed/Oho Ocean South Room 2 Digspot"},
     --Oho Ocean Spike Room Digspot 1
     [3793034] = {"@Oho Seabed/Oho Ocean Spike Room Digspot 1/Digspot 1","@Oho Seabed/Oho Seabed/Oho Ocean Spike Room Digspot 1"},
     --Oho Ocean Spike Room Digspot 2
@@ -1104,24 +1104,6 @@ LOCATION_MAPPING =
     [3791392] = {"@Hoohoo Mountain Base/Hoohoo Mountain Base Teehee Valley Entrance Digspot/Digspot","@Hoohoo Mountain Base/Hoohoo Mountain Base/Hoohoo Mountain Base Teehee Valley Entrance Digspot"},
     --Hoohoo Mountain Base Teehee Valley Entrance Block
     [3791384] = {"@Hoohoo Mountain Base/Hoohoo Mountain Base Teehee Valley Entrance Block/Block","@Hoohoo Mountain Base/Hoohoo Mountain Base/Hoohoo Mountain Base Teehee Valley Entrance Block"},
-    --Dragohoho
-    [14286848] = {"@Hoohoo Mountain/Dragohoho/Dragohoho","@Hoohoo Mountain/Hoohoo Mountain/Dragohoho"},
-    --Queen Bean
-    [14286849] = {"@Beanbean Castle/Queen Bean/Queen Bean","@Beanbean Castle/Beanbean Castle/Queen Bean"},
-    --Chuckolator
-    [14286850] = {"@Chuckolator/Chuckolator/Chuckolator","@Chuckolator Area/Chuckolator/Chuckolator"},
-    --Popple 2
-    [14286851] = {"@Woohoo Hooniversity Back/Popple 2/Popple 2","@Woohoo Hooniversity Back/Woohoo Hooniversity Back/Popple 2"},
-    --Mom Piranha
-    [14286852] = {"@Outskirts South/Mom Piranha/Mom Piranha","@Outskirts South/Outskirts South/Mom Piranha"},
-    --Fungitown
-    [14286853] = {"@Little Fungitown/Entered Fungitown/Entered Fungitown","@Little Fungitown/Little Fungitown/Entered Fungitown"},
-    --Beanstar
-    [14286854] = {"@Beanbean Castle/Queen Bean Beanstar Complete/Beanstar Complete","@Beanbean Castle/Beanbean Castle/Queen Bean Beanstar Complete"},
-    --Jojora
-    [14286855] = {"@Joke's End 3/Jojora/Jojora","@Joke's End 3/Joke's End 3/Jojora"},
-    --Birdo
-    [14286856] = {"@Teehee Valley/Popple 4/Popple 4","@Teehee Valley/Teehee Valley/Popple 4"},
     -- "Stardust Fields Room 2 Coin Block 1": 3790464,
     [3790464] = {"@Stardust Fields/Stardust Fields Room 2 Coin Block 1/Coin Block 1","@Stardust Fields/Stardust Fields/Stardust Fields Room 2 Coin Block 1"},
     -- "Stardust Fields Room 2 Coin Block 2": 3790472,

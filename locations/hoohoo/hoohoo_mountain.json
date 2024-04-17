@@ -457,24 +457,24 @@
                         "y": 120
                     }
                 ]
-            },
-            {
-                "name": "Dragohoho",
-                "sections": [
-                    {
-                        "name": "Dragohoho",
-                        "hosted_item": "dragohoho"
-                    }
-                ],
-                "map_locations":
-                [
-                    {
-                        "map": "hoohoo_mountain",
-                        "x": 980,
-                        "y": 263
-                    }
-                ]
             }
+            //{
+            //    "name": "Dragohoho",
+            //    "sections": [
+            //        {
+            //            "name": "Dragohoho",
+            //            "hosted_item": "dragohoho"
+            //        }
+            //    ],
+            //    "map_locations":
+            //    [
+            //        {
+            //            "map": "hoohoo_mountain",
+            //            "x": 980,
+            //            "y": 263
+            //        }
+            //    ]
+            //}
         ]
     }
 ]

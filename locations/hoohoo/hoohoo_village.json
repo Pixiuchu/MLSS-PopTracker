@@ -208,7 +208,6 @@
                 "sections": [
                     {
                         "name": "Hammers",
-                        "access_rules": ["dragohoho"]
                     },
                     {
                         "name": "Block",

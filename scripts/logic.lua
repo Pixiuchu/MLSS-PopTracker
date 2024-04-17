@@ -35,6 +35,14 @@ function FRUITS()
     return
     has ("keybrooch") and has ("purplefruit") and has ("whitefruit") and has ("redfruit")
 end
+function CANBEATCHUCKOLATOR()
+    return
+    has ("hammer1") or has ("handmario") or has ("handluigi")
+end
+function CHUCKOLATORBEAT()
+    return
+    has ("$FRUITS") and has ("$CANBEATCHUCKOLATOR")
+end
 function EGGS()
     return
     has ("keyblueegg") and has ("keyredegg") and has ("keyyellowegg") and has ("keygreenegg") and has ("keyorangeegg") and has ("keypurpleegg") and has ("keyazureegg")
@@ -57,7 +65,7 @@ function SSSINK()
 end
 function OCEANACCESS1()
     return
-    has ("popple2") and has ("hammer3")
+    has ("$CANGOBLETS") and has ("hammer3")
 end
 function OCEANACCESS2()
     return
@@ -69,13 +77,21 @@ function OCEAN()
 end
 function ACCESSFUNGITOWN()
     return
-    has ("queenbean") and has ("chuckolator") and has ("mompiranha")
+    has ("keyrose") and has ("$CHUCKOLATORBEAT") and has ("handluigi") and has ("$SSACCESS")
 end
 function ACCESSJOKES()
     return
     has ("$OCEAN") and has ("hammer3")
 end
+function BEANSTARCOMPLETE()
+    return
+    has ("$CHUCKOLATORBEAT") and has ("keyrose")
+end
 function BOWSERACCESS()
     return
-    has ("chuckolator") and has ("popple4") and has ("keyrose")
+    has ("$BEANSTARCOMPLETE") and has ("$ACCESSJOKES") and has ("$CANDASH") and has ("$CANDIG") and has ("handmario") and has ("keydress") and has ("keyfakestar")
+end
+function LATEBOWSERACCESS()
+    return
+    has ("$BOWSERACCESS") and has ("handluigi") and has ("$CANMINI")
 end

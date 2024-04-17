@@ -142,13 +142,4 @@ ITEM_MAPPING =
 [77771140] = {"miscgrip", "toggle"},
 [77771141] = {"miscnecktie", "toggle"},
 [77771142] = {"miscgbsp", "toggle"},
-[77771143] = {"dragohoho", "toggle"},
-[77771144] = {"queenbean", "toggle"},
-[77771145] = {"chuckolator", "toggle"},
-[77771146] = {"popple2", "toggle"},
-[77771147] = {"mompiranha", "toggle"},
-[77771148] = {"kidnapped", "toggle"},
-[77771149] = {"realbeanstar", "toggle"},
-[77771150] = {"jojora", "toggle"},
-[77771151] = {"popple4", "toggle"}
 }
