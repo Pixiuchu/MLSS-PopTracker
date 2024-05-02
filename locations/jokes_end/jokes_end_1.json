@@ -10,7 +10,7 @@
                     {
                         "name": "Digspot (Hidden)",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ],
                 "map_locations": 
@@ -28,7 +28,7 @@
                     {
                         "name": "Digspot (Hidden)",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ],
                 "map_locations": 
@@ -67,7 +67,7 @@
                     {
                         "name": "Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ],
                 "map_locations": 
@@ -86,7 +86,7 @@
                     {
                         "name": "Digspot 2 (Hidden)",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ],
                 "map_locations": 
@@ -262,7 +262,7 @@
                     {
                         "name": "Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ],
                 "map_locations": 
@@ -282,7 +282,7 @@
                     {
                         "name": "Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ],
                 "map_locations": 

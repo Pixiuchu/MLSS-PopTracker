@@ -64,7 +64,7 @@
                 "rows": [
                     ["castle_skip", "coinblocks", "beanspots"],
                     ["skip_minecart", "disable_surf", "harhall"],
-                    ["logic_level"]
+                    ["logic_level", "chuckle_type"]
                 ]
             }
         ]

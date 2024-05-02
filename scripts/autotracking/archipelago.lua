@@ -85,6 +85,9 @@ function onClear(slot_data)
         if slot_data["DifficultLogic"] then
             Tracker:FindObjectForCode("logic_level").CurrentStage = tonumber(slot_data["DifficultLogic"])
         end
+        if slot_data["BlockyBeans"] then
+            Tracker:FindObjectForCode("chuckle_type").CurrentStage = tonumber(slot_date["BlockyBeans"])
+        end
         
         if Archipelago.PlayerNumber>-1 then
             updateEvents(0)

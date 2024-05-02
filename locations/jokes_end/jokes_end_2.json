@@ -1,8 +1,8 @@
 [
     {
         "name": "Joke's End 2&#8203",
-        "access_rules": ["$ACCESSJOKES, $CANDIG, $CANCRASH, handmario",
-        "$ACCESSJOKES, $CANDIG, handmario, logic_hard"],
+        "access_rules": ["$ACCESSJOKES, $CANCRASH, handmario",
+        "$ACCESSJOKES, handmario, logic_hard"],
         "children": 
         [
             {
@@ -10,7 +10,8 @@
                 "sections": [
                     {
                         "name": "Digspot",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ],
                 "map_locations": 
@@ -21,7 +22,15 @@
                         "y": 1556
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "name": "Joke's End 2&#8203",
+        "access_rules": ["$ACCESSJOKES, $CANCRASH, $CANDIG, handmario",
+        "$ACCESSJOKES, $CANDIG, handmario, logic_hard"],
+        "children": 
+        [
             {
                 "name": "Joke's End Solo Mario Room 1 Digspot",
                 "sections": [

@@ -104,7 +104,7 @@
                     {
                         "name":  "Hoohoo Village Right Side Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name":  "Hoohoo Village North Cave Room 1 Block"
@@ -119,7 +119,7 @@
                     {
                         "name":  "Hoohoo Village North Cave Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Village Bridge Room Block 1"
@@ -181,12 +181,12 @@
                     {
                         "name": "Hoohoo Mountain Room 2 Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Room 2 Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Before Hoohooros Block"
@@ -194,7 +194,7 @@
                     {
                         "name": "Hoohoo Mountain Before Hoohooros Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Before Hoohooros Coin Block",
@@ -209,7 +209,7 @@
                     {
                         "name": "Hoohoo Mountain Fountain Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Fountain Room 2 Block"
@@ -223,12 +223,12 @@
                     {
                         "name": "Hoohoo Mountain Hoohooros Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Hoohooros Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain After Hoohooros Block 1"
@@ -239,7 +239,7 @@
                     {
                         "name": "Hoohoo Mountain After Hoohooros Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Past Hoohooros Connector Room Block"
@@ -247,12 +247,12 @@
                     {
                         "name": "Hoohoo Mountain Past Hoohooros Connector Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Past Hoohooros Connector Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Below Summit Block 1"
@@ -266,12 +266,12 @@
                     {
                         "name": "Hoohoo Mountain Below Summit Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Summit Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Dragohoho",
@@ -301,12 +301,12 @@
                     },                        {
                         "name":  "Hoohoo Mountain Base Room 1 Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Base Minecart Cave Digspot",
                         "visibility_rules": ["minecarts_skip_off,disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Base After Minecart Minigame Block 1"
@@ -329,7 +329,7 @@
                     {
                         "name": "Hoohoo Mountain Base Bridge Room Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Base Grassy Area Block 1"
@@ -347,17 +347,17 @@
                     {
                         "name": "Hoohoo Mountain Base Boostatue Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Base Boostatue Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["hammer2,$CANDIG", "$CANCRASH,$CANDIG"]
+                        "access_rules": ["hammer2,$CANDIG, chuckle_dig", "$CANCRASH,chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Base Boostatue Room Digspot 3",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["hammer3,$CANDIG"]
+                        "access_rules": ["hammer3,$CANDIG, chuckle_dig", "hammer3, chuckle_block"]
                     },
                     {
                         "name":  "Hoohoo Village Super Hammer Cave Block",
@@ -366,7 +366,7 @@
                     {
                         "name":  "Hoohoo Village Super Hammer Cave Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["hammer2,$CANDIG","$CANCRASH,$CANDIG"]
+                        "access_rules": ["hammer2,$CANDIG, chuckle_dig", "$CANCRASH,chuckle_block"]
                     },
                     {
                         "name": "Hoohoo Mountain Base Boo Statue Cave Coin Block 1",
@@ -397,7 +397,7 @@
                     {
                         "name":  "Hoohoo Mountain Base Guffawha Ruins Entrance Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG,hammer3"]
+                        "access_rules": ["hammer3,$CANDIG, chuckle_dig", "hammer3, chuckle_block"]
                     },
                     {
                         "name":  "Hoohoo Mountain Base Past Ultra Hammer Rocks Block 1",
@@ -422,7 +422,7 @@
                     {
                         "name":  "Hoohoo Mountain Base Teehee Valley Entrance Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG,hammer3"]
+                        "access_rules": ["hammer3,$CANDIG, chuckle_dig", "hammer3, chuckle_block"]
                     }
                 ]
             }
@@ -446,17 +446,17 @@
                     {
                         "name": "Beanbean Outskirts Entrance to Hoohoo Mountain Base Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts Entrance to Hoohoo Mountain Base Digspot 2",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts NW Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts NW Block",
@@ -478,17 +478,17 @@
                     {
                         "name": "Beanbean Outskirts W Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name":  "Beanbean Outskirts W Digspot 2",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts W Digspot 3",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts Solo Luigi Cave Mole",
@@ -497,7 +497,7 @@
                     {
                         "name": "Beanbean Outskirts Pipe 2 Room Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ]
             }
@@ -521,17 +521,17 @@
                     {
                         "name": "Beanbean Outskirts SW Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts SW Digspot 2",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts SW Digspot 3",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts Bean Fruit 3",
@@ -540,27 +540,27 @@
                     {
                         "name": "Beanbean Outskirts Pipe 4 Room Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts Brooch Guards Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["keybrooch,$CANDIG"]
+                        "access_rules": ["keybrooch,$CANDIG, chuckle_dig", "keybrooch, chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts Brooch Guards Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["keybrooch,$CANDIG"]
+                        "access_rules": ["keybrooch,$CANDIG, chuckle_dig", "keybrooch, chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts Chateau Entrance Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["keybrooch,$CANDIG"]
+                        "access_rules": ["keybrooch,$CANDIG, chuckle_dig", "keybrooch, chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts Chateau Entrance Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["keybrooch,$CANDIG"]
+                        "access_rules": ["keybrooch,$CANDIG, chuckle_dig", "keybrooch, chuckle_block"]
                     }
                 ]
             }
@@ -588,7 +588,7 @@
                     {
                         "name": "Beanbean Outskirts S Room 1 Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts S Room 1 Digspot 2",
@@ -767,17 +767,17 @@
                     {
                         "name": "Beanbean Outskirts SE Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts SE Digspot 2",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts SE Digspot 3",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts Surf Beach Block"
@@ -785,17 +785,17 @@
                     {
                         "name": "Beanbean Outskirts South of Hooniversity Guards Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts South of Hooniversity Guards Digspot 2",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts South of Hooniversity Guards Digspot 3",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Outside Woohoo Hooniversity Block"
@@ -849,7 +849,7 @@
                     {
                         "name": "Beanbean Outskirts E Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name":  "Beanbean Outskirts E Digspot 2",
@@ -859,7 +859,7 @@
                     {
                         "name": "Beanbean Outskirts E Digspot 3",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name":   "Beanbean Outskirts Super Hammer Upgrade",
@@ -880,12 +880,12 @@
                     {
                         "name":   "Beanbean Outskirts NE Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["handluigi,$CANDIG"]
+                        "access_rules": ["handluigi,$CANDIG,chuckle_dig", "handluigi,chuckle_block"]
                     },
                     {
                         "name":   "Beanbean Outskirts NE Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name":   "Beanbean Outskirts Bean Fruit 1",
@@ -917,17 +917,22 @@
                     {
                         "name":   "Beanbean Outskirts North Beach Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name":   "Beanbean Outskirts North Beach Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name":   "Beanbean Outskirts North Beach Digspot 3",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDASH,$CANDIG","hammer2,$CANDIG"]
+                        "access_rules": [
+                        "$CANDASH,$CANDIG,chuckle_dig",
+                        "$CANDASH,chuckle_block",
+                        "hammer2,$CANDIG,chuckle_dig",
+                        "hammer2,chuckle_block"
+                        ]
                     },
                     {
                         "name":   "Beanbean Outskirts Bean Fruit 7",
@@ -936,7 +941,7 @@
                     {
                         "name":   "Beanbean Outskirts South Beach Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ]
             }
@@ -960,7 +965,7 @@
                     {
                         "name": "Beanbean Outskirts N Room 1 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanbean Outskirts N Room 2 Digspot",
@@ -1327,11 +1332,6 @@
                         "name": "Beanbean Brooch",
                         "access_rules": ["keyrose"]
                     },
-                    // {
-                    //     "name": "Queen Bean",
-                    //     "access_rules": ["keyrose"],
-                    //     "hosted_item": "queenbean"
-                    // },
                     {
                         "name": "Queen Bean Beanstar Complete",
                         "access_rules": ["keyrose, chuckolator, $has|beanstarpieces|4"],
@@ -1421,7 +1421,7 @@
                     {
                         "name": "Chateau Room 1 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chateau Popple Fight Room Block 1"
@@ -1432,7 +1432,7 @@
                     {
                         "name": "Chateau Popple Fight Room Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chateau Popple Room Coin Block 1",
@@ -1445,7 +1445,7 @@
                     {
                         "name": "Chateau Barrel Room Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chateau Red Goblet",
@@ -1458,7 +1458,7 @@
                     {
                         "name": "Chateau Goblet Room Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ]
             }
@@ -1483,7 +1483,7 @@
                     {
                         "name": "Chucklehuck Woods Room 1 Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Room 2 Block"
@@ -1491,7 +1491,7 @@
                     {
                         "name": "Chucklehuck Woods Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Pipe Room Block 1",
@@ -1504,12 +1504,12 @@
                     {
                         "name": "Chucklehuck Woods Pipe Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Pipe Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Pipe 5 Room Coin Block",
@@ -1537,7 +1537,7 @@
                     {
                         "name": "Chucklehuck Woods Koopa Room Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Koopa Room Coin Block",
@@ -1559,7 +1559,7 @@
                     {
                         "name": "Winkle Area Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDASH,$CANDIG"]
+                        "access_rules": ["$CANDASH,chuckle_dig", "$CANDASH,chuckle_block"]
                     },
                     {
                         "name": "Winkle Area Beanstar Room Block",
@@ -1576,7 +1576,7 @@
                     {
                         "name": "Winkle Area Colloseum Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDASH,$CANDIG"]
+                        "access_rules": ["$CANDASH,$CANDIG,chuckle_dig", "$CANDASH,chuckle_block"]
                     },
                     {
                         "name": "Winkle Area Winkle Card",
@@ -1613,12 +1613,12 @@
                     {
                         "name": "Chucklehuck Woods Room 7 Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Room 7 Digspot 2",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Room 7 Coin Block",
@@ -1628,42 +1628,42 @@
                     {
                         "name": "Chucklehuck Woods Room 8 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods East of Chuckleroot Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Northeast of Chuckleroot Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "hammer1, chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Northeast of Chuckleroot Digspot 2",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "hammer1, chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Northeast of Chuckleroot Digspot 3",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "hammer1, chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Northeast of Chuckleroot Digspot 4",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "hammer1, chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods White Fruit Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods White Fruit Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANMINI,$CANDIG"]
+                        "access_rules": ["$CANMINI,$CANDIG,chuckle_dig", "$CANMINI, chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods White Fruit Room Digspot 3",
@@ -1684,12 +1684,12 @@
                     {
                         "name": "Chucklehuck Woods Wiggler room Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Wiggler room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Chucklehuck Woods Southwest of Chuckleroot Block"
@@ -1798,22 +1798,22 @@
                     {
                         "name": "Woohoo Hooniversity West of Star Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity West of Star Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity West of Star Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity West of Star Room 3 Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity West of Star Room 4 Block 1"
@@ -1827,32 +1827,32 @@
                     {
                         "name": "Woohoo Hooniversity West of Star Room 4 Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity West of Star Room 4 Digspot 2",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity West of Star Room 5 Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity Entrance to Mini Mario Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "hammer1, chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity Entrance to Mini Mario Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "hammer1, chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity Entrance to Mini Mario Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "hammer1, chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity Mini Mario Puzzle Block",
@@ -1861,7 +1861,7 @@
                     {
                         "name": "Woohoo Hooniversity Mini Mario Puzzle Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "hammer1, chuckle_block"]
                     },
                     {
                         "name": "Woohoo Hooniversity Mini Mario Puzzle Secret Area Block 1",
@@ -2029,7 +2029,7 @@
                     {
                         "name": "Oho Oasis West Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     }
                 ]
             }
@@ -2054,12 +2054,12 @@
                     {
                         "name": "Oho Ocean Spike Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Oho Ocean Spike Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Oho Ocean South Room 1 Block",
@@ -2068,7 +2068,12 @@
                     {
                         "name": "Oho Ocean South Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$SSSINK,$CANDIG", "$OCEAN,$CANDIG"]
+                        "access_rules": [
+                        "$SSSINK,$CANDIG,chuckle_dig",
+                        "$SSSINK,chuckle_block",
+                        "$OCEAN,$CANDIG,chuckle_dig",
+                        "$OCEAN,chuckle_block"
+                        ]
                     },
                     {
                         "name": "Ocean North Whirlpool Block 1",
@@ -2089,52 +2094,52 @@
                     {
                         "name": "Ocean North Whirlpool Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Ocean North Whirlpool Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Oho Ocean Fire Puzzle Room Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Ocean South Whirlpool Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Ocean South Whirlpool Digspot 2",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Ocean South Whirlpool Digspot 3",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Ocean South Whirlpool Digspot 4",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Ocean South Whirlpool Digspot 5",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Ocean South Whirlpool Digspot 6",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     },
                     {
                         "name": "Ocean South Whirlpool Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$OCEAN,$CANDIG"]
+                        "access_rules": ["$OCEAN,$CANDIG,chuckle_dig","$OCEAN,chuckle_block"]
                     }
                 ]
             }
@@ -2159,12 +2164,12 @@
                     {
                         "name": "Gwarhar Lagoon Pipe Room Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Massage Parlor Entrance Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Green Pearl Bean",
@@ -2194,7 +2199,7 @@
                     {
                         "name": "Gwarhar Lagoon Past Hermie Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANPEARL,$CANDIG"]
+                        "access_rules": ["$CANPEARL,$CANDIG,chuckle_dig", "$CANPEARL,chuckle_block"]
                     }
                 ]
             }
@@ -2220,7 +2225,7 @@
                     {
                         "name": "Gwarhar Lagoon North of Spangle Room Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Spangle Room Block",
@@ -2233,7 +2238,7 @@
                     {
                         "name": "Gwarhar Lagoon West of Spangle Room Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon East of Stone Bridge Block"
@@ -2241,7 +2246,7 @@
                     {
                         "name": "Gwarhar Lagoon Entrance to West Underwater Area Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Second Underwater Area Room 1 Block"
@@ -2249,12 +2254,12 @@
                     {
                         "name": "Gwarhar Lagoon Second Underwater Area Room 2 Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Second Underwater Area Room 2 Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Second Underwater Area Room 3 Block 1"
@@ -2268,32 +2273,32 @@
                     {
                         "name": "Gwarhar Lagoon Second Underwater Area Room 4 Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Fire Dash Puzzle Room 1 Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Fire Dash Puzzle Room 1 Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Fire Dash Puzzle Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Fire Dash Puzzle Room 3 Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Gwarhar Lagoon Fire Dash Puzzle Room 3 Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Beanstar Piece Hermie",
@@ -2353,32 +2358,32 @@
                     {
                         "name": "Teehee Valley Room 1 Digspot 1",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Room 1 Digspot 2",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Room 1 Digspot 3",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Room 2 Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Room 2 Digspot 2",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Room 2 Digspot 3",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Past Ultra Hammers Block 1",
@@ -2391,7 +2396,7 @@
                     {
                         "name": "Teehee Valley Past Ultra Hammers Digspot 1",
                         "visibility_rules": ["disable_digspots_off","disable_digspots_visible"],
-                        "access_rules": ["hammer3,$CANDIG"]
+                        "access_rules": ["hammer3,$CANDIG,chuckle_dig", "hammer3,chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Past Ultra Hammers Digspot 2",
@@ -2402,7 +2407,7 @@
                     {
                         "name": "Teehee Valley Past Ultra Hammers Digspot 3",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["hammer3,$CANDIG"]
+                        "access_rules": ["hammer3,$CANDIG,chuckle_dig", "hammer3,chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Past Ultra Hammer Rocks Coin Block",
@@ -2412,12 +2417,12 @@
                     {
                         "name": "Teehee Valley Before Trunkle Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Trunkle Room Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$ACCESSFUNGITOWN,$CANDIG"]
+                        "access_rules": ["$ACCESSFUNGITOWN,$CANDIG,chuckle_dig", "$ACCESSFUNGITOWN,chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Solo Luigi Maze Room 1 Block",
@@ -2426,17 +2431,17 @@
                     {
                         "name": "Teehee Valley Solo Luigi Maze Room 2 Digspot 1",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["hammer3,$CANDIG"]
+                        "access_rules": ["hammer3,$CANDIG,chuckle_dig", "hammer3,chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Solo Luigi Maze Room 2 Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["hammer3,$CANDIG"]
+                        "access_rules": ["hammer3,$CANDIG,chuckle_dig", "hammer3,chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Entrance To Hoohoo Mountain Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["hammer3,$CANDIG"]
+                        "access_rules": ["hammer3,$CANDIG,chuckle_dig", "hammer3,chuckle_block"]
                     },
                     {
                         "name": "Teehee Valley Before Popple Digspot 1",
@@ -2598,12 +2603,12 @@
                     {
                         "name": "Joke's End Pipe Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Joke's End Staircase Digspot",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["$CANDIG"]
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Joke's End Mole 1",
@@ -2616,12 +2621,12 @@
                     {
                         "name": "Joke's End First Boiler Room Digspot 1",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
-                        "access_rules": ["handmario,$CANDIG"]
+                        "access_rules": ["handmario,$CANDIG,chuckle_dig", "handmario,chuckle_block"]
                     },
                     {
                         "name": "Joke's End First Boiler Room Digspot 2",
                         "visibility_rules": ["disable_digspots_off"],
-                        "access_rules": ["handmario,$CANDIG"]
+                        "access_rules": ["handmario,$CANDIG,chuckle_dig", "handmario,chuckle_block"]
                     },
                     {
                         "name": "Joke's End West of First Boiler Room Block 1",
@@ -2663,12 +2668,20 @@
                     {
                         "name": "Joke's End Northeast of Boiler Room 2 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible" ],
-                        "access_rules": ["$CANCRASH, handmario", "logic_hard, handmario"]
+                        "access_rules": [
+                        "$CANCRASH, $CANDIG, chuckle_dig, handmario",
+                        "$CANCRASH, chuckle_block, handmario",
+                        "logic_hard, $CANDIG, chuckle_dig, handmario",
+                        "logic_hard, chuckle_block, handmario"]
                     },
                     {
                         "name": "Joke's End Northeast of Boiler Room 3 Digspot",
                         "visibility_rules": ["disable_digspots_off", "disable_digspots_visible" ],
-                        "access_rules": ["$CANCRASH, handmario", "logic_hard, handmario"]
+                        "access_rules": [
+                        "$CANCRASH, $CANDIG, chuckle_dig, handmario",
+                        "$CANCRASH, chuckle_block, handmario",
+                        "logic_hard, $CANDIG, chuckle_dig, handmario",
+                        "logic_hard, chuckle_block, handmario"]
                     },
                     {
                         "name": "Joke's End Furnace Room 1 Block 1",
@@ -2688,8 +2701,8 @@
     },
     {
         "name": "Joke's End 2",
-        "access_rules": ["$ACCESSJOKES, $CANDIG, $CANCRASH, handmario",
-        "$ACCESSJOKES, $CANDIG, handmario, logic_hard"],
+        "access_rules": ["$ACCESSJOKES, $CANCRASH, handmario",
+        "$ACCESSJOKES, handmario, logic_hard"],
         "children": 
             [
                 {
@@ -2705,65 +2718,83 @@
         "sections": [
                     {
                         "name": "Joke's End Second Floor East Room Digspot",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
+                        "access_rules": ["$CANDIG, chuckle_dig", "chuckle_block"]
                     },
                     {
                         "name": "Joke's End Solo Mario Room 1 Digspot",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End Solo Mario Room 2 Block 1"
+                        "name": "Joke's End Solo Mario Room 2 Block 1",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End Solo Mario Room 2 Block 2"
+                        "name": "Joke's End Solo Mario Room 2 Block 2",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End Solo Mario Room 2 Block 3"
+                        "name": "Joke's End Solo Mario Room 2 Block 3",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End Solo Luigi Room 1 Block"
+                        "name": "Joke's End Solo Luigi Room 1 Block",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
                         "name": "Joke's End Solo Luigi Room 1 Digspot",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
+                        "access_rules": ["$CANDIG"]
                     },
                     {
                         "name": "Joke's End Solo Luigi Room 2 Digspot",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End South of Bridge Room Block"
+                        "name": "Joke's End South of Bridge Room Block",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
                         "name": "Joke's End North of Bridge Room Coin Block",
-                        "visibility_rules": ["coinblocks_on"]
+                        "visibility_rules": ["coinblocks_on"],
+                        "access_rules": ["$CANDIG"]
                     },
                     {
                         "name": "Joke's End Final Split up Room Digspot",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End Solo Mario Final Room Block 1"
+                        "name": "Joke's End Solo Mario Final Room Block 1",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End Solo Mario Final Room Block 2"
+                        "name": "Joke's End Solo Mario Final Room Block 2",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End Solo Mario Final Room Block 3"
+                        "name": "Joke's End Solo Mario Final Room Block 3",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
                         "name": "Joke's End Second Boiler Room Digspot 1",
-                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"]
+                        "visibility_rules": ["disable_digspots_off", "disable_digspots_visible"],
+                        "access_rules": ["$CANDIG"]
                     },
                     {
                         "name": "Joke's End Second Boiler Room Digspot 2",
-                        "visibility_rules": ["disable_digspots_off"]
+                        "visibility_rules": ["disable_digspots_off"],
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End North of Second Boiler Room Block 1"
+                        "name": "Joke's End North of Second Boiler Room Block 1",
+                        "access_rules": ["$CANDIG"]
                     },
                     {
-                        "name": "Joke's End North of Second Boiler Room Block 2"
+                        "name": "Joke's End North of Second Boiler Room Block 2",
+                        "access_rules": ["$CANDIG"]
                     }
                 ]
             }
